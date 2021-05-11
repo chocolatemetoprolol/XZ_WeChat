@@ -12,7 +12,6 @@
 		5F80D5C61D9A432A00F8D164 /* UIView+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F80D5C51D9A432A00F8D164 /* UIView+Extension.m */; };
 		5F80D5D01D9A46B000F8D164 /* XZGroup.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F80D5CF1D9A46B000F8D164 /* XZGroup.m */; };
 		5F80D5D31D9A46D200F8D164 /* XZUser.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F80D5D21D9A46D200F8D164 /* XZUser.m */; };
-		5F80D5F01D9A4B7900F8D164 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5F80D5D61D9A4B7900F8D164 /* Info.plist */; };
 		5F80D5F11D9A4B7900F8D164 /* MASCompositeConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F80D5D81D9A4B7900F8D164 /* MASCompositeConstraint.m */; };
 		5F80D5F21D9A4B7900F8D164 /* MASConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F80D5DB1D9A4B7900F8D164 /* MASConstraint.m */; };
 		5F80D5F31D9A4B7900F8D164 /* MASConstraintMaker.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F80D5DD1D9A4B7900F8D164 /* MASConstraintMaker.m */; };
@@ -39,7 +38,6 @@
 		5F80D6341D9A60E500F8D164 /* ICEmotionMenuButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F80D62A1D9A60E500F8D164 /* ICEmotionMenuButton.m */; };
 		5F80D6351D9A60E500F8D164 /* ICEmotionPageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F80D62C1D9A60E500F8D164 /* ICEmotionPageView.m */; };
 		5F80D6501D9A6BD500F8D164 /* ICMessageConst.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F80D64F1D9A6BD500F8D164 /* ICMessageConst.m */; };
-		5F80D6681D9A6DE200F8D164 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5F80D6521D9A6DE200F8D164 /* Info.plist */; };
 		5F80D6691D9A6DE200F8D164 /* MJExtensionConst.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F80D6551D9A6DE200F8D164 /* MJExtensionConst.m */; };
 		5F80D66A1D9A6DE200F8D164 /* MJFoundation.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F80D6571D9A6DE200F8D164 /* MJFoundation.m */; };
 		5F80D66B1D9A6DE200F8D164 /* MJProperty.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F80D6591D9A6DE200F8D164 /* MJProperty.m */; };
@@ -1111,6 +1109,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -1132,10 +1131,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				5F80D7271D9BCF5100F8D164 /* emoji.plist in Resources */,
-				5F80D6681D9A6DE200F8D164 /* Info.plist in Resources */,
 				5F80D60A1D9A57A700F8D164 /* mayun.jpg in Resources */,
 				5F80D72C1D9BD03C00F8D164 /* normal_face.plist in Resources */,
-				5F80D5F01D9A4B7900F8D164 /* Info.plist in Resources */,
 				5FBCC1101D9A17B000AD6A6B /* Assets.xcassets in Resources */,
 				5F80D7241D9BCD3700F8D164 /* mahuateng.jpeg in Resources */,
 				5F80D7151D9B677D00F8D164 /* LICENSE in Resources */,
